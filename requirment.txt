@@ -1,0 +1,11 @@
+flask
+flask-restful
+passlib
+flask-jwt-extended
+Flask-Mail
+flask-cors
+eventlet
+gunicorn
+request
+pyOpenSSL
+pycryptodome
