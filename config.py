@@ -10,7 +10,7 @@ if not testing:
     HOST_URL= "https://api.sandbox.transferwise.tech"
 else:
     HOST_URL = "https://api.transferwise.com"
-TRANSFERWISE_ACCESS_TOKEN = os.environ.get("TRANSFERWISE_ACCESS_TOKEN")
+TRANSFERWISE_ACCESS_TOKEN = "b5e96042-27f9-4b72-bfde-355d24ec686f"
 SECRET_KEY = b"hvmjvhgghfgsfhsdJYFTYFTYDEjfyhsaegrwteykrultgfyktrwu"
 CORS_HEADERS = 'Content-Type'
 

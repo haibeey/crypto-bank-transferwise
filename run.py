@@ -1,6 +1,5 @@
 import config, sqlite3, os,logging
 from flask import Flask
-from firebase_admin import credentials
 from flask_jwt_extended import JWTManager
 from flask_cors import CORS
 

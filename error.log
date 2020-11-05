@@ -22,3 +22,6 @@ INFO:werkzeug: * Detected change in '/Users/haibeey/p-h/cryptobank/api/apis.py',
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 212-952-395
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2020 20:56:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2020 20:56:50] "GET /favicon.ico HTTP/1.1" 404 -

@@ -6,6 +6,6 @@ Flask-Mail
 flask-cors
 eventlet
 gunicorn
-request
+requests
 pyOpenSSL
 pycryptodome

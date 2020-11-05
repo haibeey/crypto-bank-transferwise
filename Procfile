@@ -1,1 +1,1 @@
-web: gunicorn wsgi:app --timeout 1200
+web: gunicorn --bind 0.0.0.0:$PORT wsgi:app
